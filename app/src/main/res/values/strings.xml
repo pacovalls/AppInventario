@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AppInventario</string>
+
+
+    <string name="save_action">Guardar</string>
+    <string name="search_action">Buscar</string>
+
+    <!-- Main activity -->
+    <string name="username">Usuario</string>
+    <string name="password">Password</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="contacto">Contacto</string>
+
+
+    <!-- Dialog Nuevo Inventario -->
+
+    <string name="hint_InventarioDescrip">Descripción del inventario</string>
+    <string name="hint_Almacen">Nombre del almacén</string>
+    <string name="hint_Empleado">pvalls</string>
+    <string name="hint_IdEmpleado">1</string>
+    <string name="hint_Observaciones">Observaciones</string>
+
+
+    <!-- Dialog Nuevo Inventario  errors -->
+
+    <string name="error_InventarioDescrip">Introducir descripción del inventario</string>
+    <string name="error_Almacen">Introducir Almacen del inventario</string>
+    <string name="error_Empleado">Introducir Nombre del empleado</string>
+
+    <!-- Dialog Nueva Linea Inventario -->
+    <string name="hint_IdInventario">Número de Inventario</string>
+    <string name="hint_IdLinea">Linea Inventario</string>
+    <string name="hint_Art_CodigoEan">Leer Codigo EAN</string>
+    <string name="hint_IdArticulo">Codigo Articulo</string>
+    <string name="hint_Art_Descripcion">Descripción del Articulo</string>
+    <string name="hint_Invl_Cantidad">Introducir Cantidad</string>
+
+
+    <string name="guardar">Guardar</string>
+
+
+
+
+</resources>
