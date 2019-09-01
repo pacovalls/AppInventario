@@ -1,4 +1,4 @@
---Subido github
+--Subido github el 01-09-2019
 
 https://github.com/pacovalls/AppInventario.git
 
